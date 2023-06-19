@@ -24,6 +24,7 @@ You can help by offerring financial support, employment opportunities, graduate 
 
 ## Relevant Publications & Presentations
 * Space Law Ontology Project Report, Rovetto, Robert J. (Dec 2020)
+![image](https://github.com/rrovetto/space-law-ontology/blob/a94463a0483ed112f8bf81e1fc5dc58f3cc5ed95/images/Image_SpaceLawOntoReport_1.JPG)
 
 
 ## Author / Creator / Developer
